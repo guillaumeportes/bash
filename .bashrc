@@ -1,3 +1,4 @@
+export SHELL=/usr/local/bin/bash
 export DEFAULT_USER=g
 
 # Path to your oh-my-bash installation.
@@ -84,3 +85,4 @@ fi
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
+export GTAGSLABEL=pygments
