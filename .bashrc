@@ -86,3 +86,5 @@ fi
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
 export GTAGSLABEL=pygments
+
+export PATH="$PATH:/Users/g/.foundry/bin"
